@@ -1,3 +1,7 @@
-These are changes made to my first file.
+These are some changes made to my first file.
 
-More text added to the file.
+
+Even more text added,
+to practice using the diff function.
+
+testing again.
